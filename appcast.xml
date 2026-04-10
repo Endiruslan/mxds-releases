@@ -4,5 +4,18 @@
     <title>mxds</title>
     <link>https://raw.githubusercontent.com/Endiruslan/mxds-releases/main/appcast.xml</link>
     <language>en</language>
+    <item>
+      <title>mxds v0.0.1</title>
+      <pubDate>Sat, 11 Apr 2026 00:37:08 +0300</pubDate>
+      <sparkle:version>1</sparkle:version>
+      <sparkle:shortVersionString>0.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Endiruslan/mxds-releases/releases/download/v0.0.1/mxds-0.0.1.zip"
+        length="60484948"
+        type="application/octet-stream"
+        sparkle:edSignature="vTRZd4iltsALAIz7FSWsAKSmjS+JW7W10PpWAtxcLM8XolzfQ99EbMYv1T8k2siEEMh2yyvJScZ49L+1qtpZAQ=="
+      />
+    </item>
   </channel>
 </rss>
