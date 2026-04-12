@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>mxds</title>
+    <link>https://raw.githubusercontent.com/Endiruslan/mxds-releases/main/appcast.xml</link>
+    <language>en</language>
+    <item>
+      <title>mxds v0.0.3</title>
+      <pubDate>Mon, 13 Apr 2026 01:36:13 +0300</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure
+        url="https://github.com/Endiruslan/mxds-releases/releases/download/v0.0.3/mxds-0.0.3.zip"
+        length="60583210"
+        type="application/octet-stream"
+        sparkle:edSignature="41HG5ZctKLHrxn0xNftELgzUY1VroZxr2IKv0VCfFkrFvYreczgbhGjkYv5PhogYZUN6Z4kD+ajfVec1Ako1Cg=="
+      />
+    </item>
+  </channel>
+</rss>
