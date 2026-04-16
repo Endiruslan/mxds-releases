@@ -5,16 +5,16 @@
     <link>https://raw.githubusercontent.com/Endiruslan/mxds-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
-      <title>mxds v0.0.4</title>
-      <pubDate>Mon, 13 Apr 2026 16:28:45 +0300</pubDate>
-      <sparkle:version>4</sparkle:version>
-      <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
+      <title>mxds v0.0.5</title>
+      <pubDate>Thu, 16 Apr 2026 14:31:29 +0300</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.0.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure
-        url="https://github.com/Endiruslan/mxds-releases/releases/download/v0.0.4/mxds-0.0.4.zip"
-        length="60624208"
+        url="https://github.com/Endiruslan/mxds-releases/releases/download/v0.0.5/mxds-0.0.5.zip"
+        length="60623603"
         type="application/octet-stream"
-        sparkle:edSignature="foBBqidCXzyRkdOaGcDRzxUgYmr0LmfOzOvzDo8Q0QrdKT+TmujONAXpnev6/Oq3A/PNlpcEB7YhBgGuUmCXDA=="
+        sparkle:edSignature="BpaQsALYxL/CPVSPO2KY/3TtPQbIaCVNZHUljj24JRIKpQ8h0bh26I3Zk4mDajf6C4tLgtQqxl6Dc3CPScNiAw=="
       />
     </item>
   </channel>
